@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.5",
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "tailwindcss": "^4.1.5"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "reto de un proyecto To Do App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hola_mundo": "echo \"Hola mundo\" ",
+    "run_app": "node app.js"
+  },
+  "author": "Enmanuel Miranda",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
