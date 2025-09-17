@@ -5,9 +5,10 @@ Este proyecto permite gestionar tareas de manera sencilla, integrando una API RE
 
 ---
 ## Demostración del proyecto
+Este video es una ejecucion del proyecto
+- https://www.youtube.com/watch?v=3kSyaD1Zpmk
 ---
-https://www.youtube.com/watch?v=3kSyaD1Zpmk
----
+
 
 ## 📂 Estructura del Proyecto
 ```
@@ -18,12 +19,10 @@ https://www.youtube.com/watch?v=3kSyaD1Zpmk
 ```
 
 ---
-
 ## 🚀 Requisitos Previos
 Antes de comenzar asegúrate de tener instalado:
 - [Node.js](https://nodejs.org/) (versión LTS recomendada)
 - [MySQL](https://dev.mysql.com/downloads/) corriendo en tu máquina
-
 ---
 
 ## ⚙️ Configuración del Backend
